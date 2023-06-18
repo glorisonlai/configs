@@ -1,0 +1,12 @@
+[submodule "alacritty_config"]
+	path = alacritty_config
+	url = git@github.com:glorisonlai/alacritty_config.git
+[submodule "tmux_config"]
+	path = tmux_config
+	url = git@github.com:glorisonlai/tmux_config.git
+[submodule "astronvim_config"]
+	path = astronvim_config
+	url = git@github.com:glorisonlai/astronvim_config.git
+[submodule "kali_config"]
+	path = kali_config
+	url = git@github.com:glorisonlai/kali_config.git
